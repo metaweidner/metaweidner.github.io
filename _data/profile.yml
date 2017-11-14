@@ -1,0 +1,15 @@
+- caption: Github
+  href: https://github.com/metaweidner
+  icon: entypo/github.svg
+
+- caption: Twitter
+  href: https://twitter.com/metaweidner
+  icon: entypo/twitter.svg
+
+- caption: University of Houston Libraries
+  href: https://apps.lib.uh.edu/staff/members/profile/ajweidner
+  icon: icons/briefcase.svg
+
+- caption: Houston, Texas
+  href: https://www.google.com/maps/place/Houston,+TX/@29.8159954,-95.9617495,9z/data=!3m1!4b1!4m5!3m4!1s0x8640b8b4488d8501:0xca0d02def365053b!8m2!3d29.7604267!4d-95.3698028
+  icon: entypo/location-pin.svg
