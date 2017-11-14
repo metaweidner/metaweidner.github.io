@@ -2,28 +2,28 @@
     <div class="card bg-light">
         <div class="card-body text-center">
             {{site.author.name}}
-            {% include profile-avatar.html %}
-            {% include profile-body.html %}
+            {% include components/profile-avatar.html %}
+            {% include components/profile-body.html %}
         </div>
     </div>
 {% endif %}
 
 {% if page.show_tags %}
-    {% include all-tags.html %}
+    {% include components/all-tags.html %}
 {% endif %}
 
 {% if page.show_skills %}
-    {% include all-skills.html %}
+    {% include components/all-skills.html %}
 {% endif %}
 
 {% if page.path contains '_projects' %}
-    {% include project-meta.html %}
+    {% include components/project-meta.html %}
 {% endif %}
 
 {% if page.path contains '_posts' %}
-    {% include post-meta.html %}
+    {% include components/post-meta.html %}
 {% endif %}
 
 {% if page.path contains '_portfolio' %}
-    {% include portfolio-meta.html %}
+    {% include components/portfolio-meta.html %}
 {% endif %}
