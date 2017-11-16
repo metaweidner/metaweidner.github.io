@@ -4,12 +4,11 @@
 - title: About
   href: about.html
 
-- title: Posts
-  href: list/posts.html
+- title: Portfolio
+  href: list/portfolio.html
 
 - title: Projects
   href: list/projects.html
 
-- title: Portfolio
-  href: list/portfolio.html
-
+- title: Posts
+  href: list/posts.html
