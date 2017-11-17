@@ -54,7 +54,7 @@ August 2007 - May 2009
 ### Volunteer
 
 **Volunteer Archivist**  
-Veterans Memorial Air Park    
+Veterans Memorial Air Park (Fort Worth Aviation Museum)    
 Fort Worth, TX  
 July 2010 - January 2014
 
