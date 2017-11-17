@@ -10,63 +10,63 @@ narrow: true
 
 ### Experience
 
-**Metadata Services Coordinator**
-University of Houston Libraries: Metadata Unit
-Houston, TX
+**Metadata Services Coordinator**  
+University of Houston Libraries: Metadata Unit  
+Houston, TX  
 January 2015 - Present
 
-**Metadata Consultant**
-Houston Public Library
-Houston, TX
+**Metadata Consultant**  
+Houston Public Library  
+Houston, TX  
 January 2017 - August 2017
 
-**Metadata Librarian**
-University of Houston Libraries: Metadata Unit
-Houston, TX
+**Metadata Librarian**  
+University of Houston Libraries: Metadata Unit  
+Houston, TX  
 February 2014 - December 2014
 
-**Project Coordinator, New Mexico Historical Newspapers**
-University of North Texas Libraries: Digital Newspaper Unit
-Denton, TX
+**Project Coordinator, New Mexico Historical Newspapers**  
+University of North Texas Libraries: Digital Newspaper Unit  
+Denton, TX  
 February 2011 - January 2014
 
-**Graduate Library Assistant**
-University of North Texas Libraries: Preservation Unit
-Denton, TX
+**Graduate Library Assistant**  
+University of North Texas Libraries: Preservation Unit  
+Denton, TX  
 August 2009 - January 2011
 
-**Documentarian**
-University of North Texas: Division of Advancement
-Denton, TX
+**Documentarian**  
+University of North Texas: Division of Advancement  
+Denton, TX  
 June 2009 - April 2010
 
-**Reference Desk Assistant**
-University of Texas Permian Basin: Dunagan Library
-Odessa, TX
+**Reference Desk Assistant**  
+University of Texas Permian Basin: Dunagan Library  
+Odessa, TX  
 September 2008 - June 2009
 
-**Graduate Assistant**
-University of Texas Permian Basin: History Department
-Odessa, TX
+**Graduate Assistant**  
+University of Texas Permian Basin: History Department  
+Odessa, TX  
 August 2007 - May 2009
 
 
 ### Education
 
-**MS Library & Information Science**
-**Digital Content Management Certificate**
+**MS Library & Information Science**  
+*Digital Content Management Certificate*  
 University of North Texas, December 2011
 
-**MA History**
+**MA History**  
 University of Texas of the Permian Basin, May 2009
 
-**BA History**
+**BA History**  
 Grinnell College, May 1999
 
 
 ### Certifications
 
-**Certified Scrum Product Owner**
+**Certified Scrum Product Owner**  
 September 2017 - Present
 
 
@@ -79,17 +79,17 @@ September 2017 - Present
 
 ### Awards
 
-**John P. McGovern Outstanding Librarian Achievement Award**
+**John P. McGovern Outstanding Librarian Achievement Award**  
 University of Houston Libraries, 2017
 
-**Trailblazer Award for Leading Organizational Change**
+**Trailblazer Award for Leading Organizational Change**  
 Bayou City DAMS Implementation Team, University of Houston Libraries, 2017
 
-**Outstanding Group**
+**Outstanding Group**  
 Metadata & Digitization Services Department, University of Houston Libraries, 2017
 
-**Board of Directors Award**
+**Board of Directors Award**  
 Veterans Memorial Air Park, 2013
 
-**Graduate Student of the Year**
+**Graduate Student of the Year**  
 History Department, University of Texas of the Permian Basin, 2009
