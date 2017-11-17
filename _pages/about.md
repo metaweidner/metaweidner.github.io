@@ -54,7 +54,7 @@ August 2007 - May 2009
 ### Education
 
 **MS Library & Information Science**  
-*Digital Content Management Certificate*  
+_Digital Content Management Certificate_  
 University of North Texas, December 2011
 
 **MA History**  
