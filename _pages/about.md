@@ -51,6 +51,19 @@ Odessa, TX
 August 2007 - May 2009
 
 
+### Volunteer
+
+**Volunteer Archivist**  
+Veterans Memorial Air Park (VMAP)  
+Fort Worth, TX  
+July 2010 - January 2014
+
+**Processing Volunteer**  
+University of North Texas Archives  
+Denton, TX  
+January 2010 - November 2010
+
+
 ### Education
 
 **MS Library & Information Science**  
