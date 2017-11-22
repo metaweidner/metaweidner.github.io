@@ -6,11 +6,12 @@ narrow: true
 
 {% include components/intro.md %}
 
-[More about Andrew.]({{ site.baseurl}}{% link _pages/about.md %})
+[View Andrew's Resume]({{ site.baseurl}}{% link _pages/about.md %})
 
 ### Portfolio
 
 Andrew has worked in academic libraries for many years and has a large portfolio of experience, publications, and presentations.
+
   [Browse it here]({{ site.baseurl }}{% link list/portfolio.html %}).
 
 
