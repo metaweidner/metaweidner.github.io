@@ -12,7 +12,7 @@ narrow: true
 
 Andrew has worked in academic libraries for many years and has a large portfolio of experience, publications, and presentations.
 
-[Browse Andrew's Professional Portfolio]({{ site.baseurl }}{% link list/portfolio.html %}).
+[Browse Andrew's Professional Portfolio]({{ site.baseurl }}{% link list/portfolio.html %})
 
 
 ### Projects
