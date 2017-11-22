@@ -1,8 +1,5 @@
 ---
 title: Graduate Assistant
-layout: defaults/portfolio
-venue: University of Texas of the Permian Basin: History Department
-location: Odessa, Texas
 duration: August 2007 - May 2009
 skills:
   - Work Experience
