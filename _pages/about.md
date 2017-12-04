@@ -73,7 +73,7 @@ University of North Texas, December 2011
 **MA History**  
 University of Texas of the Permian Basin, May 2009
 
-**BA History**  
+**[Bachelor of Arts, History]({{ site.baseurl }}{% link _portfolio/0001-BAHistory.md %})**  
 Grinnell College, May 1999
 
 
