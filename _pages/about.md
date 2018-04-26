@@ -10,48 +10,42 @@ narrow: true
 
 ### Experience
 
-**[Digital Operations Coordinator]({{ site.baseurl }}{% link _portfolio/0400-Digital-Operations-Coordinator.md %})**  
-University of Houston Libraries: Digitization Unit  
-Houston, TX  
-April 2018 - Present
-
-**[Metadata Services Coordinator]({{ site.baseurl }}{% link _portfolio/0300-Metadata-Services-Coordinator.md %})**  
 **Metadata Services Coordinator**  
 University of Houston Libraries: Metadata Unit  
 Houston, TX  
-January 2015 - March 2018
+January 2015 - Present
 
-**[Metadata Consultant]({{ site.baseurl }}{% link _portfolio/0251-Metadata-Consultant.md %})**  
+**Metadata Consultant**  
 Houston Public Library  
 Houston, TX  
 January 2017 - August 2017
 
-**[Metadata Librarian]({{ site.baseurl }}{% link _portfolio/0250-Metadata-Librarian.md %})**  
+**Metadata Librarian**  
 University of Houston Libraries: Metadata Unit  
 Houston, TX  
 February 2014 - December 2014
 
-**[Project Coordinator, New Mexico Historical Newspapers]({{ site.baseurl }}{% link _portfolio/0200-Project-Coordinator-NMHN.md %})**  
+**Project Coordinator, New Mexico Historical Newspapers**  
 University of North Texas Libraries: Digital Newspaper Unit  
 Denton, TX  
 February 2011 - January 2014
 
-**[Graduate Library Assistant]({{ site.baseurl }}{% link _portfolio/0150-Graduate-Library-Assistant.md %})**  
+**Graduate Library Assistant**  
 University of North Texas Libraries: Preservation Unit  
 Denton, TX  
 August 2009 - January 2011
 
-**[Documentarian]({{ site.baseurl }}{% link _portfolio/0149-Documentarian.md %})**  
+**Documentarian**  
 University of North Texas: Division of Advancement  
 Denton, TX  
 June 2009 - April 2010
 
-**[Reference Desk Assistant]({{ site.baseurl }}{% link _portfolio/0100-Reference-Desk-Assistant.md %})**  
+**[Reference Desk Assistant]({{ site.baseurl }}{% link _portfolio/0100-ReferenceDeskAssistant.md %})**  
 University of Texas Permian Basin: Dunagan Library  
 Odessa, TX  
 September 2008 - June 2009
 
-**[Graduate Assistant]({{ site.baseurl }}{% link _portfolio/0099-Graduate-Assistant.md %})**  
+**[Graduate Assistant]({{ site.baseurl }}{% link _portfolio/0099-GraduateAssistant.md %})**  
 University of Texas Permian Basin: History Department  
 Odessa, TX  
 August 2007 - May 2009
@@ -64,7 +58,7 @@ Veterans Memorial Air Park (Fort Worth Aviation Museum)
 Fort Worth, TX  
 July 2010 - January 2014
 
-**[Processing Volunteer]({{ site.baseurl }}{% link _portfolio/0101-Processing-Volunteer.md %})**  
+**Processing Volunteer**  
 University of North Texas Archives  
 Denton, TX  
 January 2010 - November 2010
@@ -72,14 +66,14 @@ January 2010 - November 2010
 
 ### Education
 
-**[Master of Science, Library Science]({{ site.baseurl }}{% link _portfolio/0102-MS-Library-Science.md %})**  
+**MS Library & Information Science**  
 _Digital Content Management Certificate_  
 University of North Texas, December 2011
 
-**[Master of Arts, History]({{ site.baseurl }}{% link _portfolio/0010-MA-History.md %})**  
+**MA History**  
 University of Texas of the Permian Basin, May 2009
 
-**[Bachelor of Arts, History]({{ site.baseurl }}{% link _portfolio/0001-BA-History.md %})**  
+**[Bachelor of Arts, History]({{ site.baseurl }}{% link _portfolio/0001-BAHistory.md %})**  
 Grinnell College, May 1999
 
 
