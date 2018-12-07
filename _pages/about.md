@@ -8,12 +8,30 @@ narrow: true
 
 <hr />
 
+### Education
+
+**MS Library & Information Science**  
+_Digital Content Management Certificate_  
+University of North Texas, December 2011
+
+**MA History**  
+University of Texas of the Permian Basin, May 2009
+
+**[Bachelor of Arts, History]({{ site.baseurl }}{% link _portfolio/0001-BAHistory.md %})**  
+Grinnell College, May 1999
+
+
 ### Experience
+
+**Digital Operations Coordinator**  
+University of Houston Libraries: Digitization Unit
+Houston, TX  
+April 2018 - Present
 
 **Metadata Services Coordinator**  
 University of Houston Libraries: Metadata Unit  
 Houston, TX  
-January 2015 - Present
+January 2015 - March 2018
 
 **Metadata Consultant**  
 Houston Public Library  
@@ -62,19 +80,6 @@ July 2010 - January 2014
 University of North Texas Archives  
 Denton, TX  
 January 2010 - November 2010
-
-
-### Education
-
-**MS Library & Information Science**  
-_Digital Content Management Certificate_  
-University of North Texas, December 2011
-
-**MA History**  
-University of Texas of the Permian Basin, May 2009
-
-**[Bachelor of Arts, History]({{ site.baseurl }}{% link _portfolio/0001-BAHistory.md %})**  
-Grinnell College, May 1999
 
 
 ### Certifications
