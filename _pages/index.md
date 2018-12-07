@@ -20,7 +20,7 @@ Andrew has worked in academic libraries for many years and has a large portfolio
 Andrew keeps himself busy on open-source projects. [The full list is here]({{ site.baseurl }}{% link list/projects.md %}).
 
 
-### Posts
+<!-- ### Posts
 
 Andrew sometimes posts about his work. [View all posts by year here]({{ site.baseurl }}{% link list/posts.html %}).
 
@@ -28,4 +28,4 @@ Andrew sometimes posts about his work. [View all posts by year here]({{ site.bas
 
 {% for post in site.posts limit:3 %}
 {% include components/post-card.html %}
-{% endfor %}
+{% endfor %} -->
