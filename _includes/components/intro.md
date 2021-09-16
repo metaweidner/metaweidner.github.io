@@ -1,3 +1,3 @@
 Andrew is an experienced researcher, project manager, digital collections expert, and digital asset management ecosystem architect with master's degrees in [History](http://cas.utpb.edu/academic-departments/history/), [Library Science](http://lis.unt.edu/master-science), and a graduate certificate in [Digital Content Management](http://lis.unt.edu/digital-content-management). He has also completed training as a [Certified Scrum Product Owner](http://bcert.me/sdpabmjev).
 
-Andrew's professional interests include digital collections, digital preservation, metadata, and workflow automation. He currently resides in Houston, Texas, where he enjoys exploring nature with his family.
+Andrew's professional interests include digital collections, digital preservation, metadata quality, and workflow automation. He currently resides in Houston, Texas, where he enjoys exploring nature with his family.
