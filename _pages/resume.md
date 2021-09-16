@@ -1,6 +1,6 @@
 ---
 layout: defaults/page
-permalink: about.html
+permalink: resume.html
 narrow: true
 ---
 
