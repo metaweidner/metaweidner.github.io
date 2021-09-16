@@ -2,13 +2,13 @@
   href: index.html
 
 - title: Resume
-  href: about.html
+  href: resume.html
 
 - title: Portfolio
   href: list/portfolio.html
 
-- title: Projects
-  href: list/projects.html
+# - title: Projects
+#  href: list/projects.html
 
 # - title: Posts
 #   href: list/posts.html
