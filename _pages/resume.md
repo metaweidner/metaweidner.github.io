@@ -10,20 +10,20 @@ narrow: true
 
 ### Education
 
-**MS Library & Information Science**  
+**Master of Science, Library Science**  
 _Digital Content Management Certificate_  
 University of North Texas, December 2011
 
-**MA History**  
+**Master of Arts, History**  
 University of Texas of the Permian Basin, May 2009
 
-**[Bachelor of Arts, History]({{ site.baseurl }}{% link _portfolio/0001-BAHistory.md %})**  
+**[Bachelor of Arts, History]({{ site.baseurl }}{% link _portfolio/00001-BAHistory.md %})**  
 Grinnell College, May 1999
 
 
 ### Experience
 
-**Digital Operations Coordinator**  
+**Digitization Operations Coordinator**  
 University of Houston Libraries: Digitization Unit
 Houston, TX  
 April 2018 - Present
@@ -58,12 +58,12 @@ University of North Texas: Division of Advancement
 Denton, TX  
 June 2009 - April 2010
 
-**[Reference Desk Assistant]({{ site.baseurl }}{% link _portfolio/0100-ReferenceDeskAssistant.md %})**  
+**[Reference Desk Assistant]({{ site.baseurl }}{% link _portfolio/00100-ReferenceDeskAssistant.md %})**  
 University of Texas Permian Basin: Dunagan Library  
 Odessa, TX  
 September 2008 - June 2009
 
-**[Graduate Assistant]({{ site.baseurl }}{% link _portfolio/0099-GraduateAssistant.md %})**  
+**[Graduate Assistant]({{ site.baseurl }}{% link _portfolio/00099-GraduateAssistant.md %})**  
 University of Texas Permian Basin: History Department  
 Odessa, TX  
 August 2007 - May 2009
@@ -88,13 +88,13 @@ January 2010 - November 2010
 September 2017 - Present
 
 
-### Technology
+<!-- ### Technology
 
 * Ruby
 * AutoHotkey
 * Jekyll
 
-
+ -->
 ### Awards
 
 **John P. McGovern Outstanding Librarian Achievement Award**  
