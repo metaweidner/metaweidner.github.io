@@ -9,7 +9,7 @@ excerpt_separator: <!--more-->
 # Config for your profile.
 title:            metaweidner.github.io  # Site title
 name:             Andrew J Weidner              # Your name
-avatar:           /theme/img/WeidnerAvatar.jpg   # Path to an avatar image
+avatar:           /theme/img/WeidnerAvatar_2.jpg   # Path to an avatar image
 
 # The theme uses the baseurl throughout, which is useful for running the entire
 # site under a subdir, like for this GitHub Pages deployment as a project site.
