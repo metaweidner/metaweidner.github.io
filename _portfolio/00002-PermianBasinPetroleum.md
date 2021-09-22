@@ -11,7 +11,7 @@ skills:
 Abstract
 -------
 
-A study of the state of the petroleum industry in the Permian Basin in the 1930s based on primary souce materials.
+A study of the state of the petroleum industry in the Permian Basin in the 1930s based on primary source materials.
 
 
 Links
