@@ -71,12 +71,12 @@ August 2007 - May 2009
 
 ### Volunteer
 
-**Volunteer Archivist**  
+**[Volunteer Archivist]({{ site.baseurl }}{% link _portfolio/20140101-VMAP_VolunteerArchivist.md %})**  
 Veterans Memorial Air Park (Fort Worth Aviation Museum)    
 Fort Worth, TX  
 July 2010 - January 2014
 
-**Processing Volunteer**  
+**[Processing Volunteer]({{ site.baseurl }}{% link _portfolio/20101101-UNT_ProcessingVolunteer.md %})**  
 University of North Texas Archives  
 Denton, TX  
 January 2010 - November 2010
