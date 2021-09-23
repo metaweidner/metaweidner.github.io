@@ -84,12 +84,10 @@ January 2010 - November 2010
 
 ### Scholarly Works
 
-**Publications**
-
+**Publications**  
 [Browse Andrew's Publications]({{ site.baseurl }}/list/portfolio.html#publication)
 
-**Presentations**
-
+**Presentations**  
 [Browse Andrew's Presentations]({{ site.baseurl }}/list/portfolio.html#presentation)
 
 
