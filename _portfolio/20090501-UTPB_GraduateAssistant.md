@@ -4,7 +4,7 @@ venue: University of Texas of the Permian Basin
 location: Odessa, Texas
 duration: August 2007 - May 2009
 skills:
-  - Work Experience
+  - Experience
   - UTPB
 ---
 
