@@ -10,11 +10,11 @@ narrow: true
 
 ### Education
 
-**Master of Science, Library Science**  
+**[Master of Science, Library Science]({{ site.baseurl }}{% link _portfolio/20111201-UNT_MSLibraryScience.md %})**   
 _Digital Content Management Certificate_  
 University of North Texas, December 2011
 
-**Master of Arts, History**  
+**[Master of Arts, History]({{ site.baseurl }}{% link _portfolio/20090501-UTPB_MAHistory.md %})**  
 University of Texas of the Permian Basin, May 2009
 
 **[Bachelor of Arts, History]({{ site.baseurl }}{% link _portfolio/19990501-Grinnell_BAHistory.md %})**  
