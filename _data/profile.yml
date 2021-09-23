@@ -1,7 +1,3 @@
-- caption: Github
-  href: https://github.com/metaweidner
-  icon: entypo/github.svg
-
 # - caption: Twitter
 #   href: https://twitter.com/metaweidner
 #   icon: entypo/twitter.svg
@@ -9,6 +5,10 @@
 - caption: LinkedIn
   href: https://www.linkedin.com/in/weidnerandrew/
   icon: entypo/linkedin.svg
+
+- caption: Github
+  href: https://github.com/metaweidner
+  icon: entypo/github.svg
 
 - caption: Orcid
   href: https://orcid.org/0000-0002-8209-8472
