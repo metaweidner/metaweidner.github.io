@@ -17,7 +17,7 @@ University of North Texas, December 2011
 **Master of Arts, History**  
 University of Texas of the Permian Basin, May 2009
 
-**[Bachelor of Arts, History]({{ site.baseurl }}{% link _portfolio/00001-BAHistory.md %})**  
+**[Bachelor of Arts, History]({{ site.baseurl }}{% link _portfolio/19990501-Grinnell_BAHistory.md %})**  
 Grinnell College, May 1999
 
 
@@ -58,12 +58,12 @@ University of North Texas: Division of Advancement
 Denton, TX  
 June 2009 - April 2010
 
-**[Reference Desk Assistant]({{ site.baseurl }}{% link _portfolio/00100-ReferenceDeskAssistant.md %})**  
+**[Reference Desk Assistant]({{ site.baseurl }}{% link _portfolio/20090601-UTPB_ReferenceDeskAssistant.md %})**  
 University of Texas Permian Basin: Dunagan Library  
 Odessa, TX  
 September 2008 - June 2009
 
-**[Graduate Assistant]({{ site.baseurl }}{% link _portfolio/00099-GraduateAssistant.md %})**  
+**[Graduate Assistant]({{ site.baseurl }}{% link _portfolio/20090501-UTPB_GraduateAssistant.md %})**  
 University of Texas Permian Basin: History Department  
 Odessa, TX  
 August 2007 - May 2009
