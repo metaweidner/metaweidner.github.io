@@ -4,7 +4,7 @@ permalink: resume.html
 narrow: true
 ---
 
-{% include components/intro.md %}
+{% include components/professional_intro.md %}
 
 <hr />
 

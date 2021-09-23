@@ -4,7 +4,9 @@ permalink: index.html
 narrow: true
 ---
 
-{% include components/intro.md %}
+{% include components/professional_intro.md %}
+
+{% include components/personal_intro.md %}
 
 [View Andrew's Resume]({{ site.baseurl}}{% link _pages/resume.md %})
 
