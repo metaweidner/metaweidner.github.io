@@ -18,4 +18,4 @@ My Role
 About UTPB
 ----------
 
-Text about UTPB.
+{% include components/about_utpb.md %}

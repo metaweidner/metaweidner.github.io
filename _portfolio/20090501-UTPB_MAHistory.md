@@ -14,7 +14,7 @@ My Role
 What I studied.
 [http://cas.utpb.edu/academic-departments/history/]
 
-About Grinnell
+About UTPB
 ----------
 
-Text about UTPB.
+{% include components/about_utpb.md %}

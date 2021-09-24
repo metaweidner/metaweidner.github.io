@@ -16,7 +16,4 @@ I received the Graduate Student of the Year award from the UTPB History departme
 About UTPB
 ----------
 
-The University of Texas Permian Basin (UTPB) is a public university in Odessa, Texas and is part of the University of Texas System. It was founded in 1973.
-
-* [UTPB Home Page](https://www.utpb.edu/)
-* [UTPB History Department Home Page](https://www.utpb.edu/academics/colleges/arts-sciences/departments/history/index)
+{% include components/about_utpb.md %}
