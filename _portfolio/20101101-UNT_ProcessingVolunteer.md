@@ -16,7 +16,8 @@ My Role
 * Wrote and Encoded finding aid: [Guide to the Rose Sizemore Collection](http://www.lib.utexas.edu/taro/unt/00003/unt-00003.html)
 
 
-About the UNT Archives
+About UNT
 ----------
 
-Text about UNT Archives.
+{% include components/about_unt.md %}
+* [UNT University Archive](https://library.unt.edu/special-collections/archives-manuscripts/university-archive/)

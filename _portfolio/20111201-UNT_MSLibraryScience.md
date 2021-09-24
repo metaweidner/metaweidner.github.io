@@ -11,10 +11,9 @@ skills:
 My Role
 -------
 
-What I studied.
-[http://lis.unt.edu/master-science]
+I received a [Master's Degree in Library Science](https://informationscience.unt.edu/ms-majoring-library-science) from the UNT Department of Information Science. I entered the program intending to pursue a career as an archivist, but my focus quickly shifted to metadata and digital collections. I earned a [Graduate Academic Certificate in Digital Content Management](https://informationscience.unt.edu/digital-content-management) that had an early influence on the arc of my career in libraries.
 
-About Grinnell
+About UNT
 ----------
 
-Text about UTPB.
+{% include components/about_unt.md %}
