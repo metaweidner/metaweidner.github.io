@@ -17,4 +17,4 @@ This document describes the process that the University of North Texas (UNT) Lib
 Links
 ----------
 
-* https://digital.library.unt.edu/ark:/67531/metadc155637/
+* [https://digital.library.unt.edu/ark:/67531/metadc155637/]
