@@ -11,7 +11,11 @@ skills:
 My Role
 -------
 
-* 
+* [UNT Library Preservation Unit](https://library.unt.edu/special-collections/preservation/)
+* Repaired library materials: phase boxes, rebinds, recases, deacidification, encapsulation.
+* Maintained library catalog records.
+* Created departmental database records.
+* Instructed colleagues in preservation best practices and repair techniques.
 
 About UNT
 ----------

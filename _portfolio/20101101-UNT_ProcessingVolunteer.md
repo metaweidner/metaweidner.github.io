@@ -12,6 +12,7 @@ skills:
 My Role
 -------
 
+* [UNT University Archive](https://library.unt.edu/special-collections/archives-manuscripts/university-archive/)
 * Processed and Arranged personal papers collection: six archival boxes.
 * Wrote and Encoded finding aid: [Guide to the Rose Sizemore Collection](http://www.lib.utexas.edu/taro/unt/00003/unt-00003.html)
 
@@ -20,4 +21,3 @@ About UNT
 ----------
 
 {% include components/about_unt.md %}
-* [UNT University Archive](https://library.unt.edu/special-collections/archives-manuscripts/university-archive/)

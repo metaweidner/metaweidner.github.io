@@ -43,17 +43,17 @@ University of Houston Libraries: Metadata Unit
 Houston, TX  
 February 2014 - December 2014
 
-**Project Coordinator, New Mexico Historical Newspapers**  
+**[Project Coordinator, New Mexico Historical Newspapers]({{ site.baseurl }}{% link _portfolio/20140101-UNT_ProjectCoordinator.md %})**  
 University of North Texas Libraries: Digital Newspaper Unit  
 Denton, TX  
 February 2011 - January 2014
 
-**Graduate Library Assistant**  
+**[Graduate Library Assistant]({{ site.baseurl }}{% link _portfolio/20110101-UNT_GraduateLibraryAssistant.md %})**  
 University of North Texas Libraries: Preservation Unit  
 Denton, TX  
 August 2009 - January 2011
 
-**Documentarian**  
+**[Documentarian]({{ site.baseurl }}{% link _portfolio/20100401-UNT_Documentarian.md %})**  
 University of North Texas: Division of Advancement  
 Denton, TX  
 June 2009 - April 2010
@@ -94,16 +94,9 @@ January 2010 - November 2010
 ### Certifications
 
 **Certified Scrum Product Owner**  
-September 2017 - Present
+September 2017 - August 2019
 
 
-<!-- ### Technology
-
-* Ruby
-* AutoHotkey
-* Jekyll
-
- -->
 ### Awards
 
 **John P. McGovern Outstanding Librarian Achievement Award**  
