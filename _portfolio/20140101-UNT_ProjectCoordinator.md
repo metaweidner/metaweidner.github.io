@@ -1,5 +1,5 @@
 ---
-title: NDNP Project Coordinator, New Mexico Historical Newspapers
+title: National Digital Newspaper Project Coordinator, New Mexico Historical Newspapers
 venue: University of North Texas Libraries, Digital Newspaper Unit
 location: Denton, Texas
 duration: February 2011 - January 2014
