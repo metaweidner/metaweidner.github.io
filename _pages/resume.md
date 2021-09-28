@@ -23,22 +23,22 @@ Grinnell College, May 1999
 
 ### Experience
 
-**Digitization Operations Coordinator**  
+**[Digitization Operations Coordinator]({{ site.baseurl }}{% link _portfolio/20210928-UH_DigitizationCoordinator.md %})**  
 University of Houston Libraries: Digitization Unit
 Houston, TX  
 April 2018 - Present
 
-**Metadata Services Coordinator**  
+**[Metadata Services Coordinator]({{ site.baseurl }}{% link _portfolio/20180331-UH_MetadataCoordinator.md %})**  
 University of Houston Libraries: Metadata Unit  
 Houston, TX  
 January 2015 - March 2018
 
-**Metadata Consultant**  
+<!-- **Metadata Consultant**  
 Houston Public Library  
 Houston, TX  
 January 2017 - August 2017
-
-**Metadata Librarian**  
+ -->
+**[Metadata Librarian]({{ site.baseurl }}{% link _portfolio/20141231-UH_MetadataLibrarian.md %})**  
 University of Houston Libraries: Metadata Unit  
 Houston, TX  
 February 2014 - December 2014
