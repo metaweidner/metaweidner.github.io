@@ -11,7 +11,7 @@ skills:
 My Role
 -------
 
-* [UNT Library Digital Newspaper Unit](https://library.unt.edu/special-collections/preservation/)
+* [UNT Library Digital Newspaper Unit](https://library.unt.edu/digital-newspaper-unit/)
 * Reviewed digital files for image quality and metadata accuracy: 200,000+ images processed.
 * Coordinated production work with University of New Mexico, Library of Congress, and iArchives personnel.
 * Designed New Mexico project Web site: http://newmexicodigitalnewspapers.weebly.com
