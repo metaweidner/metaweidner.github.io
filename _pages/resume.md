@@ -33,11 +33,11 @@ University of Houston Libraries: Metadata Unit
 Houston, TX  
 January 2015 - March 2018
 
-**Metadata Consultant**  
+<!-- **Metadata Consultant**  
 Houston Public Library  
 Houston, TX  
 January 2017 - August 2017
-
+ -->
 **Metadata Librarian**  
 University of Houston Libraries: Metadata Unit  
 Houston, TX  
