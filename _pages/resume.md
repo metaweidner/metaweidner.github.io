@@ -102,7 +102,7 @@ September 2017 - August 2019
 
 ### Awards
 
-**[Outstanding Group Award]({{ site.baseurl }}{% link _portfolio/20190404-UH_B2H_OutstandingGroup.md %})**
+**[Outstanding Group Award]({{ site.baseurl }}{% link _portfolio/20190404-UH_B2H_OutstandingGroup.md %})**  
 Bridge2Hyku, University of Houston Libraries, 2019
 
 **[John P. McGovern Outstanding Librarian Achievement Award]({{ site.baseurl }}{% link _portfolio/20170329-UH_OutstandingLibrarian.md %})**  
