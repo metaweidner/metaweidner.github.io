@@ -102,17 +102,20 @@ September 2017 - August 2019
 
 ### Awards
 
-**John P. McGovern Outstanding Librarian Achievement Award**  
+**[Outstanding Group Award]({{ site.baseurl }}{% link _portfolio/ %})**
+Bridge2Hyku, University of Houston Libraries, 2019
+
+**[John P. McGovern Outstanding Librarian Achievement Award]({{ site.baseurl }}{% link _portfolio/ %})**  
 University of Houston Libraries, 2017
 
-**Trailblazer Award for Leading Organizational Change**  
+**[Trailblazer Award for Leading Organizational Change]({{ site.baseurl }}{% link _portfolio/20170329-UH_BCDAMS_TrailblazerAward.md %})**  
 Bayou City DAMS Implementation Team, University of Houston Libraries, 2017
 
-**Outstanding Group**  
+**[Outstanding Group Award]({{ site.baseurl }}{% link _portfolio/20170329-UH_MDS_OutstandingGroup.md %})**  
 Metadata & Digitization Services Department, University of Houston Libraries, 2017
 
-**Board of Directors Award**  
+**[Board of Directors Award]({{ site.baseurl }}{% link _portfolio/20130701-VMAP_BoardOfDirectorsAward.md %})**  
 Veterans Memorial Air Park, 2013
 
-**Graduate Student of the Year**  
+**[Graduate Student of the Year Award]({{ site.baseurl }}{% link _portfolio/20090501-UTPB_GraduateStudentOfTheYear.md %})**  
 History Department, University of Texas of the Permian Basin, 2009

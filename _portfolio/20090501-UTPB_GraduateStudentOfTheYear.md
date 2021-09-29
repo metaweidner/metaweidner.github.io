@@ -1,6 +1,6 @@
 ---
-title: Graduate Student of the Year, History Department
-venue: University of Texas of the Permian Basin
+title: Graduate Student of the Year Award
+venue: University of Texas of the Permian Basin, History Department
 location: Odessa, Texas
 duration: May 2009
 skills:

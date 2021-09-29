@@ -21,4 +21,4 @@ My Role
 About the Veterans Memorial Air Park
 ----------
 
-Text about FWAM.
+{% include components/about_vmap.md %}
