@@ -97,8 +97,7 @@ January 2010 - November 2010
 ### Credentials
 
 **[Certified Scrum Product Owner](https://bcert.me/sdpabmjev)**  
-Scrum Alliance  
-September 2017 - September 2019
+Scrum Alliance, September 2017 - September 2019
 
 **[Digitization Certificate](https://heritage-digitaltransitions.com/dt-digitization-certification-program/)**  
 Digital Transitions, September 2019
