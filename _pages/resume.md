@@ -94,10 +94,20 @@ January 2010 - November 2010
 [Browse Andrew's Presentations]({{ site.baseurl }}/list/portfolio.html#poster)
 
 
-### Certifications
+### Credentials
 
-**Certified Scrum Product Owner**  
-September 2017 - August 2019
+**[Certified Scrum Product Owner](https://bcert.me/sdpabmjev)**  
+Scrum Alliance  
+September 2017 - September 2019
+
+**[Digitization Certificate](https://heritage-digitaltransitions.com/dt-digitization-certification-program/)**  
+Digital Transitions, September 2019
+
+**[Library Leadership and Management Certificate](https://libraryjuiceacademy.com/certificate/library-leadership-management/)**  
+Library Juice Academy, March 2019
+
+**[XML and RDF-Based Systems Certificate](https://libraryjuiceacademy.com/certificate/xml-and-rdf-based-systems/)**  
+Library Juice Academy, March 2015
 
 
 ### Awards
