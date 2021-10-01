@@ -1,1 +1,3 @@
+#### Researcher. Technologist. Librarian.
+
 Andrew is an experienced researcher, project manager, digital collections expert, and digital asset management ecosystem architect with master's degrees in [History]({{ site.baseurl }}{% link _portfolio/20090501-UTPB_MAHistory.md %}) and [Library Science]({{ site.baseurl }}{% link _portfolio/20111201-UNT_MSLibraryScience.md %}). He holds a graduate certificate in [Digital Content Management](http://lis.unt.edu/digital-content-management) and has completed training as a [Certified Scrum Product Owner](http://bcert.me/sdpabmjev). His professional interests include digital collections, digital preservation, metadata quality, digitization, project management, software development, and workflow automation.
