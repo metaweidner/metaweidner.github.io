@@ -1,5 +1,5 @@
 ---
-title: Bridge2Hyku: Meeting Practitioners’ Needs in Digital Collection Migration to Open Source Samvera Repository
+title: Bridge2Hyku&#58; Meeting Practitioners' Needs in Digital Collection Migration to Open Source Samvera Repository
 venue: Publications
 location: Open Access Journal
 duration: April 2020

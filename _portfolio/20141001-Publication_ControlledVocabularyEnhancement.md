@@ -1,5 +1,5 @@
 ---
-title: Automated Enhancement of Controlled Vocabularies: Upgrading Legacy Metadata in CONTENTdm
+title: Automated Enhancement of Controlled Vocabularies&#58; Upgrading Legacy Metadata in CONTENTdm
 venue: International Conference on Dublin Core & Metadata Applications Proceedings 2014
 location: Conference Proceedings
 duration: October 2014

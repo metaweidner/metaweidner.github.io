@@ -1,5 +1,5 @@
 ---
-title: Planting Cedar: An Open Source Linked Data Vocabulary Manager at the University of Houston Libraries
+title: Planting Cedar&#58; An Open Source Linked Data Vocabulary Manager at the University of Houston Libraries
 venue: Journal of Library Metadata
 location: Journal
 duration: October 2019

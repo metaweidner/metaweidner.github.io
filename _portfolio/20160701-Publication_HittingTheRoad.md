@@ -1,5 +1,5 @@
 ---
-title: Hitting the Road Towards a Greater Digital Destination: Evaluating and Testing DAMS at the University of Houston Libraries
+title: Hitting the Road Towards a Greater Digital Destination&#58; Evaluating and Testing DAMS at the University of Houston Libraries
 venue: Information Technology & Libraries
 location: Open Access Journal
 duration: June 2016

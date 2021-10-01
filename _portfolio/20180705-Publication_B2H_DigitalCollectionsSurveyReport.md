@@ -1,5 +1,5 @@
 ---
-title:  Digital Collections Survey Report for Bridge2Hyku: IMLS Funded Project
+title:  Digital Collections Survey Report for Bridge2Hyku&#58; IMLS Funded Project
 venue: Bridge2Hyku IMLS Grant Project
 location: Institutional Repository
 duration: July 2018

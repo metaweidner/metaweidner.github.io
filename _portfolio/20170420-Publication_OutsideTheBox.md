@@ -1,5 +1,5 @@
 ---
-title: Outside The Box: Building a Digital Curation Ecosystem for Preservation and Access
+title: Outside The Box&#58; Building a Digital Curation Ecosystem for Preservation and Access
 venue: Code4Lib Journal
 location: Open Access Journal
 duration: April 2017

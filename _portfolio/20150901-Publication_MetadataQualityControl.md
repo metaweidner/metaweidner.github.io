@@ -1,5 +1,5 @@
 ---
-title: Metadata Quality Control for Content Migration: The Metadata Migration Project at the University of Houston Libraries
+title: Metadata Quality Control for Content Migration&#58; The Metadata Migration Project at the University of Houston Libraries
 venue: International Conference on Dublin Core & Metadata Applications Proceedings 2015
 location: Conference Proceedings
 duration: September 2015

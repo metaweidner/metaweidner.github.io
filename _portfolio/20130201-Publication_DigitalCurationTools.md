@@ -1,5 +1,5 @@
 ---
-title: Digital Curation Tools: Metadata Enhancement with Selenium IDE
+title: Digital Curation Tools&#58; Metadata Enhancement with Selenium IDE
 venue: iConference 2013 Proceedings
 location: Conference Proceedings
 duration: February 2013

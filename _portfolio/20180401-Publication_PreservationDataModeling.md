@@ -1,5 +1,5 @@
 ---
-title: Preservation Data Modeling for Systems Interoperability: The Single SIP Model in the Bayou City DAMS
+title: Preservation Data Modeling for Systems Interoperability&#58; The Single SIP Model in the Bayou City DAMS
 venue: Archiving 2018 Final Program and Proceedings
 location: Conference Proceedings
 duration: April 2018

@@ -1,5 +1,5 @@
 ---
-title: Book Review: "Linked Data for Libraries, Archives and Museums: How to Clean, Link and Publish Your Metadata. By Seth van Hooland and Ruben Verborgh."
+title: Book Review&#58; "Linked Data for Libraries, Archives and Museums&#58; How to Clean, Link and Publish Your Metadata. By Seth van Hooland and Ruben Verborgh."
 venue: Journal of Digital Media Management
 location: Journal
 duration: February 2015
