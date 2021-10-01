@@ -5,6 +5,7 @@ location: Houston, Texas
 duration: April 2019
 skills:
   - Award
+  - B2H
   - UH
 ---
 

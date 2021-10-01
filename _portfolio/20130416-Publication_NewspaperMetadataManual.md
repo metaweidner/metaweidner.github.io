@@ -1,7 +1,7 @@
 ---
 title: Newspaper Metadata Manual
 venue: Texas Digital Newspaper Program
-location: Denton, Texas
+location: Institutional Repository
 duration: April 2013
 skills:
   - Publication
