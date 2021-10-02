@@ -5,7 +5,7 @@ location: Hamburg, Germany
 duration: June 2019
 skills:
   - Presentation
-	- OR
+  - OR
   - B2H
   - UH
 ---

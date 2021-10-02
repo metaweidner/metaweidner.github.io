@@ -5,7 +5,7 @@ location: Las Vegas, Nevada
 duration: October 2018
 skills:
   - Presentation
-	- DLF
+  - DLF
   - B2H
   - UH
 ---

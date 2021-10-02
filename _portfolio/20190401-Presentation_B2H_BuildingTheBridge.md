@@ -1,5 +1,5 @@
 ---
-title: Bridge2Hyku&#58; Building the Bridge towards an Open Source Digital Solution
+title: Bridge2Hyku&#58; Building the Bridge Towards an Open Source Digital Solution
 venue: Coalition for Networked Information Spring Meeting
 location: Saint Louis, Missouri
 duration: April 2019
