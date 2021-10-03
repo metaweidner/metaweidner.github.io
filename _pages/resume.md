@@ -89,11 +89,11 @@ January 2010 - November 2010
 {% assign num_posters = 0 %}
 {% for portfolio in site.portfolio %}
     {% for skill in portfolio.skills %}
-			{% if skill == 'publication' %}
+			{% if skill == 'Publication' %}
 				{% assign num_publications = num_publications | plus:1 %}
-			{% elsif skill == 'presentation' %}
+			{% elsif skill == 'Presentation' %}
 				{% assign num_presentations = num_presentations | plus:1 %}
-			{% elsif skill == 'poster' %}
+			{% elsif skill == 'Poster' %}
 				{% assign num_posters = num_posters | plus:1 %}
 			{% endif %}
 		{% endfor %}
