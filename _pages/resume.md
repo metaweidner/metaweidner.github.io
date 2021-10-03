@@ -84,17 +84,17 @@ January 2010 - November 2010
 
 ### Scholarly Works
 
-{% increment num_publications %}
-{% increment num_presentations %}
-{% increment num_posters %}
+{% assign num_publications = 0 %}
+{% assign num_presentations = 0 %}
+{% assign num_posters = 0 %}
 {% for portfolio in site.portfolio %}
     {% for tag in portfolio.tags %}
 			{% if tag == 'publication' %}
-				{% increment num_publications %}
+				{% assign num_publications = num_publications | plus:1 %}
 			{% elsif tag == 'presentation' %}
-				{% increment num_presentations %}
+				{% assign num_presentations = num_presentations | plus:1 %}
 			{% elsif tag == 'poster' %}
-				{% increment num_posters %}
+				{% assign num_posters = num_posters | plus:1 %}
 			{% endif %}
 		{% endfor %}
 {% endfor %}
