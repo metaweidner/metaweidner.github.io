@@ -1,4 +1,4 @@
-Andrew has lived, worked, and studied in many locations around the United States and Europe:
+I have lived, worked, and studied in many locations around the United States and Europe:
 * Northfield, Minnesota
 * Heiligenhaus, Germany
 * Grinnell, Iowa
@@ -8,4 +8,4 @@ Andrew has lived, worked, and studied in many locations around the United States
 * Odessa, Texas
 * Denton, Texas
 
-Andrew currently resides in Houston, Texas, where he enjoys exploring nature with his family.
+I currently reside in Houston, Texas, where I enjoy exploring nature with my family.

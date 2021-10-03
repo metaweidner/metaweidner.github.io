@@ -10,7 +10,7 @@ narrow: true
 
 ### Portfolio
 
-Andrew has worked in academic libraries since 2007 and has a comprehensive portfolio of [experience]({{ site.baseurl }}/list/portfolio.html#experience), [publications]({{ site.baseurl }}/list/portfolio.html#publication), and [presentations]({{ site.baseurl }}/list/portfolio.html#presentation).
+I have worked in academic libraries since 2007, and I have a comprehensive portfolio of [experience]({{ site.baseurl }}/list/portfolio.html#experience), [publications]({{ site.baseurl }}/list/portfolio.html#publication), and [presentations]({{ site.baseurl }}/list/portfolio.html#presentation).
 
 **[Browse Andrew's Professional Portfolio]({{ site.baseurl }}{% link list/portfolio.html %})**
 
