@@ -6,13 +6,13 @@ narrow: true
 
 {% include components/professional_intro.md %}
 
-#### [View Andrew's Resume]({{ site.baseurl}}{% link _pages/resume.md %})
+**[View Andrew's Resume]({{ site.baseurl}}{% link _pages/resume.md %})**
 
 ### Portfolio
 
 Andrew has worked in academic libraries since 2007 and has a comprehensive portfolio of [experience]({{ site.baseurl }}/list/portfolio.html#experience), [publications]({{ site.baseurl }}/list/portfolio.html#publication), and [presentations]({{ site.baseurl }}/list/portfolio.html#presentation).
 
-#### [Browse Andrew's Professional Portfolio]({{ site.baseurl }}{% link list/portfolio.html %})
+**[Browse Andrew's Professional Portfolio]({{ site.baseurl }}{% link list/portfolio.html %})**
 
 ### Personal
 
