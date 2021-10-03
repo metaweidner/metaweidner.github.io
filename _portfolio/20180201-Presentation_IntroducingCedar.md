@@ -1,5 +1,5 @@
 ---
-title: Introducing Cedar: A Linked Data Authority Service at the University of Houston Libraries
+title: Introducing Cedar&#58; A Linked Data Authority Service at the University of Houston Libraries
 venue: American Library Association Midwinter Linked Library Data Interest Group Meeting
 location: Denver, Colorado
 duration: February 2018
