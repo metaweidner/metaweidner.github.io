@@ -84,14 +84,29 @@ January 2010 - November 2010
 
 ### Scholarly Works
 
+{% increment num_publications %}
+{% increment num_presentations %}
+{% increment num_posters %}
+{% for portfolio in site.portfolio %}
+    {% for tag in portfolio.tags %}
+			{% if tag == 'publication' %}
+				{% increment num_publications %}
+			{% elsif tag == 'presentation' %}
+				{% increment num_presentations %}
+			{% elsif tag == 'poster' %}
+				{% increment num_posters %}
+			{% endif %}
+		{% endfor %}
+{% endfor %}
+
 **Publications**  
-[Browse Andrew's Publications]({{ site.baseurl }}/list/portfolio.html#publication)
+[Browse Andrew's {{ num_publications }} Publications]({{ site.baseurl }}/list/portfolio.html#publication)
 
 **Presentations**  
-[Browse Andrew's Presentations]({{ site.baseurl }}/list/portfolio.html#presentation)
+[Browse Andrew's {{ num_presentations }} Presentations]({{ site.baseurl }}/list/portfolio.html#presentation)
 
 **Posters**  
-[Browse Andrew's Presentations]({{ site.baseurl }}/list/portfolio.html#poster)
+[Browse Andrew's {{ num_posters }} Posters]({{ site.baseurl }}/list/portfolio.html#poster)
 
 
 ### Credentials
