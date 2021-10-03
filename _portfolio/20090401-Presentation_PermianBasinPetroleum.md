@@ -14,7 +14,7 @@ Abstract
 A study of the state of the petroleum industry in the Permian Basin in the 1930s based on primary source materials.
 
 
-Links
+<!-- Links
 ----------
 
-[West Texas Historical Association Annual Meeting 2009 Program](http://swco.ttu.edu/WestTexas/lubbock2009.html)
+* [West Texas Historical Association Annual Meeting 2009 Program](http://swco.ttu.edu/WestTexas/lubbock2009.html) -->
