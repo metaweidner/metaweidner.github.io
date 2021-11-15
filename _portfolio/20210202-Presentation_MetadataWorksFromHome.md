@@ -18,3 +18,4 @@ Links
 ----------
 
 * <https://alacorenews.org/events/metadata-interest-group/>
+* <https://hdl.handle.net/10657/8337>

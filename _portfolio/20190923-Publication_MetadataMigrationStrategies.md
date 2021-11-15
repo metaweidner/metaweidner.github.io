@@ -19,3 +19,4 @@ Links
 ----------
 
 * <https://dcpapers.dublincore.org/pubs/article/view/4231>
+* <https://hdl.handle.net/10657/8336>
