@@ -24,12 +24,12 @@ Grinnell College, May 1999
 ### Experience
 
 **[Head of Digital Production Services]({{ site.baseurl }}{% link _portfolio/20220331-BC_HeadDigitalProductionServices.md %})**  
-Boston College Libraries
+Boston College Libraries  
 Chestnut Hill, MA  
 February 2022 - Present
 
 **[Digitization Operations Coordinator]({{ site.baseurl }}{% link _portfolio/20210928-UH_DigitizationCoordinator.md %})**  
-University of Houston Libraries: Digitization Unit
+University of Houston Libraries: Digitization Unit  
 Houston, TX  
 April 2018 - February 2022
 
